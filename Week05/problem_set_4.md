@@ -29,6 +29,7 @@
 
 **Problem 4.** Load `./data/heart_failure_clinical_records_dataset.csv`.
 
-- a. Plot a kernel density estimate of `ejection_fraction`.
-- b. Use Pandas' `df.sample(frac=1.0, replace=True)` to resample the data 15 times with replacement, plotting the kernel density estimates for each sample.
+- a. Plot a
+- kernel density estimate of `ejection_fraction`.
+- b. Use Pandas' `df.sample(frac=1.0, replace=True)` to resample the data 15 times with replacement, plotting the kernel density estimtes for each sample.
 - c. For what values of `ejection_fraction` is the original plot reliable? For which values is there noticeable variation in your plots of the resampled data?
